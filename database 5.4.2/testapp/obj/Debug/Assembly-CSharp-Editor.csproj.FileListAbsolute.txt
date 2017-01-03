@@ -1,0 +1,1 @@
+J:\Unity Project\Firebase Quickstart\database 5.4.2\testapp\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "939342910011",
+    "firebase_url": "https://photondemo-af253.firebaseio.com",
+    "project_id": "photondemo-af253",
+    "storage_bucket": "photondemo-af253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939342910011:android:33d3c5784010795d",
+        "android_client_info": {
+          "package_name": "com.lampstudio.photon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939342910011-69b3n6om5n96na4cpam1as7deit55idl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
